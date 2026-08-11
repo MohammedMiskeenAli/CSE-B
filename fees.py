@@ -8,5 +8,5 @@ print("One print statement added in github repo")
 print("Web are learning Github and git")
 print("We are from DS-B")
 print("This line is from github")
-j=20
-i=10
+
+
