@@ -8,3 +8,4 @@ for i in range(3):
 print("One print statement added in github repo")
 print("Web are learning Github and git")
 i=10
+j=20
