@@ -1,1 +1,2 @@
 We are learning Git GUI
+its easy
