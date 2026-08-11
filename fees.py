@@ -1,6 +1,5 @@
 import tkinter as tk
 import numpy as np
-temp=3
 login=input("Enter your login details:")
 pwd=input("Enter your password")
 for i in range(3):
