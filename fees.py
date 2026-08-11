@@ -8,6 +8,3 @@ for i in range(3):
 print("One print statement added in github repo")
 print("Web are learning Github and git")
 print("We are from DS-B")
-i=10
-k=30
-j=20
